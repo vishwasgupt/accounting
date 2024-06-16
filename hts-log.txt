@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 May 2024 14:32:24 at https://www.johnweldoncpa.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.johnweldoncpa.com/ -O1 "C:\Users\vishw\OneDrive\Desktop\accointing\df" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:58:54	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.byfimages.com/resource_files/gettyimages-1474838897.jpg (from https://www.johnweldoncpa.com/content_library.htm?id=KI27HKG6&cat=alzrlirg)
+14:58:54	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.byfimages.com/resource_files/gettyimages-915488206.jpg (from https://www.johnweldoncpa.com/content_library.htm?id=812BDAF3&cat=alzrlirg)
+14:58:54	Error: 	"Not Found" (404) at link https://www.johnweldoncpa.com/images/image_library/articles/TAX-PLAN-1123-image-2.jpg (from https://www.johnweldoncpa.com/content_library.htm?id=0L68U8MT&cat=rjnm42d4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 38 seconds : 851 links scanned, 848 files written (66966714 bytes overall) [62273512 bytes received at 38969 bytes/sec], 6983782 bytes transferred using HTTP compression in 361 files, ratio 28%, 1.4 requests per connection
+(1 errors, 2 warnings, 0 messages)
